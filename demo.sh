@@ -1,8 +1,8 @@
 #!/bin/bash
 echo -e "\e[34mExercise 0.1, demonstrate working toolchain\e[0m"
 read -p "press enter"
-echo "cd cpp"
-cd cpp
+echo "cd bnfc-cpp"
+cd bnfc-cpp
 echo -e "\e[31mcleaning the folder\e[0m"
 read -p "press enter"
 rm -f *.hs
