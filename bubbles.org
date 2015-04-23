@@ -1,0 +1,22 @@
+#+STARTUP: showall
+* General
+  keep github up-to-date
+
+* Exercise 1 - "Installation"
+
+** DONE Install everything
+   i needed the "-devel" packages as well
+
+** DONE write a bash-script that goes through the compile steps the tutor wants to see
+   "demo.sh"
+
+* Exercise 2 - "Grammar"
+  bnfc has its own language for defining grammar, but we are obviously supposed to use even a seperate compiler
+
+** TODO Go through the lectures 1-4
+
+** TODO Go through the LYAH
+
+*** TODO Figure out a way to compile sections of code with emacs
+
+*** TODO Write a Readme.md for that

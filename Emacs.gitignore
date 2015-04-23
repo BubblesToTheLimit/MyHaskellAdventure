@@ -1,0 +1,12 @@
+# -*- mode: gitignore; -*-
+# usage: git config --global core.excludesfile Emacs.gitignore
+*~
+\#*\#
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# eshell files
+/eshell/history
+/eshell/lastdir
