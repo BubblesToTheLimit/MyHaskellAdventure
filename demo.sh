@@ -1,5 +1,4 @@
 #!/bin/bash
-cd /home/scat666/documents/compilerbau
 echo -e "\e[34mExercise 0.1, demonstrate working toolchain\e[0m"
 read -p "press enter"
 echo "cd cpp"
