@@ -9,11 +9,11 @@
     - "demo.sh"
 
 * Exercise 2 - "Grammar"
-  bnfc has its own language for defining grammar, but we are obviously supposed to use even a seperate compiler
-  - [ ] go through lecture 1
-  - [ ] go through lecture 2
-  - [ ] go through lecture 3
-  - [ ] go through lecture 4
+  bnfc has its own language for defining grammar, but we are obviously supposed to use even a seperate compiler file:llvm-hs/MakeFile
+  - [X] go through lecture 1
+  - [X] go through lecture 2
+  - [X] go through lecture 3
+  - [X] go through lecture 4
   - [ ] go through the LYAH tutorial
     - figure out a way to compile sections of code with emacs
     - write a Readme.md for that
