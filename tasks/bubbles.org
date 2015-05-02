@@ -17,3 +17,4 @@
   - [ ] go through the LYAH tutorial
     - figure out a way to compile sections of code with emacs
     - write a Readme.md for that
+  - [X] create scripts that go through the 6 testfiles
