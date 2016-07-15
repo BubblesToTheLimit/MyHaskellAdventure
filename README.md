@@ -1,8 +1,7 @@
-compilerbuilding
-================
-Compiler Building, Summerterm 2015
+MyHaskellAdventure
+==================
 
-### MyHaskellAdventureGame
+## MyHaskellAdventureGame
 To play my game, enter the following commands:
 ```
 ghci
@@ -10,5 +9,3 @@ ghci
 start
 ```
 
-### Progress
-My own personal progress is documented in [bubbles.org](bubbles.org)
